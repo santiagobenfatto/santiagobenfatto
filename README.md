@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there, glad you're here! 👋
+
+Welcome to my GitHub page!
+
+I'm Santiago, Fullstack developer from 🇦🇷 **Buenos Aires, Argentina **
+
+I prefer working on backend development with **Node.js**, but I'm always open to new challenges and opportunities.
+
 
 <!--
 **santiagobenfatto/santiagobenfatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
