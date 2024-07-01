@@ -6,20 +6,26 @@
 <p>I prefer working on backend development with <b>Node.js</b>, but I'm always open to new challenges and opportunities.</p>
 <br>
 
-🔭 I’m currently working on my portfolio, where I will showcase the projects I create, and seeking new ideas to incorporate.
+🔭 Currently, I'm focusing on building my portfolio, where I'll showcase my projects and exploring new ideas to incorporate.
 
-🌱 I’m currently learning TypeScript and enhancing my knowledge of architectures to develop optimal and efficient solutions.
+🌱 At the moment, I'm diving into TypeScript and honing my skills in architectural design to develop efficient and optimal solutions.
 
-📫 How to reach me: <a href="mailto:santiagobenfatto@gmail.com"><b>santiagobenfatto@gmail.com</b></a>
+📫 You can reach me at <a href="mailto:santiagobenfatto@gmail.com"><b>santiagobenfatto@gmail.com</b></a>
 
 <br>
 
 <h3>Find me here:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/santiagobenfatto" target="blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/santiagobenfatto/profile-resources/main/linkedin.svg" alt="LinkedIn Santiago Benfatto" width="24" height="24" align="center"/>
+  <img src="https://raw.githubusercontent.com/santiagobenfatto/profile-resources/main/linkedin.svg" alt="LinkedIn Santiago Benfatto" width="40" height="30" align="center"/>
 </a>
 <a href="mailto:santiagobenfatto@gmail.com">
-  <img src="https://raw.githubusercontent.com/santiagobenfatto/profile-resources/main/gmail.svg" alt="Gmail Santiago Benfatto" width="24" height="24" align="center"/>
+  <img src="https://raw.githubusercontent.com/santiagobenfatto/profile-resources/main/gmail.svg" alt="Gmail Santiago Benfatto" width="40" height="30" align="center"/>
+</a>
+<a href="https://www.instagram.com/_santu92" target="blank" rel="noopener noreferrer">
+  <img src="https://github.com/santiagobenfatto/profile-resources/blob/main/instagram.svg" alt="Instagram Santiago Benfatto" width="40" height="30" align="center"/>
+</a>
+<a href="https://www.codewars.com/users/santiagobenfatto" target="blank" rel="noopener noreferrer">
+  <img src="https://github.com/santiagobenfatto/profile-resources/blob/main/codewars.svg" alt="Codewars Santiago Benfatto" width="40" height="30" align="center"/>
 </a>
 </p>
