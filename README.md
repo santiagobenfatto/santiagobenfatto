@@ -16,16 +16,16 @@
 
 <h3>Find me here:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/santiagobenfatto" target="blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/santiagobenfatto" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/santiagobenfatto/profile-resources/main/linkedin.svg" alt="LinkedIn Santiago Benfatto" width="40" height="30" align="center"/>
 </a>
 <a href="mailto:santiagobenfatto@gmail.com">
   <img src="https://raw.githubusercontent.com/santiagobenfatto/profile-resources/main/gmail.svg" alt="Gmail Santiago Benfatto" width="40" height="30" align="center"/>
 </a>
-<a href="https://www.instagram.com/_santu92" target="blank" rel="noopener noreferrer">
-  <img src="https://github.com/santiagobenfatto/profile-resources/blob/main/instagram.svg" alt="Instagram Santiago Benfatto" width="40" height="30" align="center"/>
+<a href="https://www.instagram.com/_santu92" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/santiagobenfatto/profile-resources/main/instagram.svg" alt="Instagram Santiago Benfatto" width="40" height="30" align="center"/>
 </a>
-<a href="https://www.codewars.com/users/santiagobenfatto" target="blank" rel="noopener noreferrer">
-  <img src="https://github.com/santiagobenfatto/profile-resources/blob/main/codewars.svg" alt="Codewars Santiago Benfatto" width="40" height="30" align="center"/>
+<a href="https://www.codewars.com/users/santiagobenfatto" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/santiagobenfatto/profile-resources/main/codewars.svg" alt="Codewars Santiago Benfatto" width="40" height="30" align="center"/>
 </a>
 </p>
