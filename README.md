@@ -15,9 +15,11 @@
 <br>
 
 <h3>Find me here:</h3>
+<p align="left">
 <a href="https://www.linkedin.com/in/santiagobenfatto" target="blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/santiagobenfatto/profile-resources/main/linkedin.svg?token=GHSAT0AAAAAACSKNEIKVZGOYODAZ6QTJVOMZUB4ZWA" alt="LinkedIn Santiago Benfatto" width="24" height="24" />
+  <img src="https://raw.githubusercontent.com/santiagobenfatto/profile-resources/main/linkedin.svg" alt="LinkedIn Santiago Benfatto" width="24" height="24" align="center"/>
 </a>
 <a href="mailto:santiagobenfatto@gmail.com">
-  <img src="https://raw.githubusercontent.com/santiagobenfatto/profile-resources/main/gmail.svg?token=GHSAT0AAAAAACSKNEIKFC3MX4YGL4AA7SRSZUB43GA" alt="Gmail Santiago Benfatto" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/santiagobenfatto/profile-resources/main/gmail.svg" alt="Gmail Santiago Benfatto" width="24" height="24" align="center"/>
 </a>
+</p>
